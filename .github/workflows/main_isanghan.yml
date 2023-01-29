@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'isanghan'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_175805C68A2F4AAE9769E3FA7D6026A9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_446908BD80FE45CBA1A7D660236DFE59 }}
